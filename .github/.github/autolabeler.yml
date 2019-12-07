@@ -1,5 +1,11 @@
 Missing LOWA review 🧐: ["*"]
 Missing Andy review =): ["*.js"]
 Missing IHR review =D: ["*.js"]
+<<<<<<< HEAD
 bug: ["*"]
 duplicate: ["*.js", "*.yml"]
+||||||| merged common ancestors
+bug: ["*"]
+=======
+bug: ["*"]
+>>>>>>> 01d5949b45fa18bd546c2caf72cf8650864a0397
